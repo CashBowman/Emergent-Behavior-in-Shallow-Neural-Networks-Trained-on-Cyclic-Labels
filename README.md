@@ -12,3 +12,5 @@ The report includes experiments on:
 - Neural Tangent Kernel (NTK) eigenspectrum analysis
 
 - projections of hinge-loss gradients onto NTK eigenmodes
+
+![Epoch-wise double descent curve](images/epoch_wise_double_descent_curve.png)
